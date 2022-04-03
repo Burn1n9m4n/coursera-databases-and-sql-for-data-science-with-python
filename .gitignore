@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 *.txt
 *.pdf
+**/code_examples
+code_examples/**
